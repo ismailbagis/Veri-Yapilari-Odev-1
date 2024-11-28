@@ -1,1 +1,1 @@
-# Veri-Yapilari-dev-1
+Sakarya Üniversitesi 2024-2025 Veri Yapılari 1.Ödevini içerir.

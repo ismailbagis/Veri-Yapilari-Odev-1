@@ -1,0 +1,1 @@
+Dna.txt okuma işlemleri ile fonksiyonlar oluşturulup kullanılmıştır.
